@@ -1,4 +1,6 @@
-    class q2{
+package LAB_1;
+
+class q2{
     public static void main(String[] args) {
 
         int marks = 85;  // Mention the mark here

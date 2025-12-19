@@ -1,4 +1,6 @@
-    class q3 {
+package LAB_1;
+
+class q3 {
     public static void main(String[] args) {
 
         // Mention the day number of the current month

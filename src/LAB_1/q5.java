@@ -1,3 +1,5 @@
+package LAB_1;
+
 import java.util.Scanner;
 
     class q5{

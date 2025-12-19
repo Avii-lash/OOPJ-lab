@@ -1,4 +1,6 @@
-    class q4{
+package LAB_1;
+
+class q4{
     public static void main(String[] args) {
 
         int number = 121;  // Mention the number here

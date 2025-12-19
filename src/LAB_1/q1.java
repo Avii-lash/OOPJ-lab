@@ -1,3 +1,5 @@
+package LAB_1;
+
 import java.util.*;
 class q1{
     public static void main(String[] args) {
